@@ -1,6 +1,6 @@
 {
     "name": "react-jpc-toggle-btn",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Toggle button (on, off) for react native",
     "repository": {
         "type": "git",
