@@ -32,7 +32,7 @@ getToggleStatus = (state) => {
 <ToggleBtn onPress={this.getToggleStatus} onLabel="ON" offLabel="OFF" offColor="#ccc" onColor="#6eddd9" />
 ```
 
-[![Imgur](https://github.com/jpcweb/react-jpc-toggle-btn/blob/master/Screenshot_1483257401.png)
+![Image](https://github.com/jpcweb/react-jpc-toggle-btn/blob/master/illustration.jpg)
 
 ## License
 
